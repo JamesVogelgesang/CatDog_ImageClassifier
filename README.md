@@ -1,1 +1,1 @@
-# CatDog_ImageClassifier
+This project is a stand-alone Python application that determines if a user-uploaded picture contains a cat or dog. The program uses a convolutional neural network and ~1,000 photos taken from a Kaggle.com dataset to create a model that applies binary classification to the uploaded photo. The results of training, validating, and testing the model were stored in JSON files to access and graph the results using matplotlib. The GUI of the application was created using Tkinter.
